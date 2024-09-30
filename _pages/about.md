@@ -23,7 +23,10 @@ Before joining HKUST, she earned a BFA in Visual Communication and a MFA in Info
 
 
 # News
+- *2024.09*: 🎉 Started PhD journey in HKUST!
 - *2024.07*: &nbsp;🌱 Our work, "[The 24 Solar Terms Seed Calendar](https://www.behance.net/gallery/98618717/The-SEEDTOPIA-24-Solar-Terms-Seeds-Calendar)", was exhibited at the Palace Museum during the "Global Shared Development Action Forum”.
+- *2024.05*: 🎉 Awarded the [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS).
+- *2023.07*: 🎉 Graduated from THU and join Alibaba CLoud!
 - *2022.12*: &nbsp;👾 Our work, "[OFF TRACK:](https://group02-dd17.github.io/offtrack/) A Journey inside the Bitchute Infodemic Underground" was selected for the final list of [Information is Beautiful Award 2022](https://www.informationisbeautifulawards.com/showcase/5403-off-track-a-journey-inside-the-bitchute-infodemic-underground). 
 
 <!--# Publications 
@@ -44,12 +47,15 @@ Before joining HKUST, she earned a BFA in Visual Communication and a MFA in Info
 -->
 
 # 🎖 Honors and Awards
+- *2024.05*: [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS).
 - *2023.10* Featured, [ADI Design Index](https://www.adi-design.org/adi-design-index.html). 
 - *2022.09* Short List, [Information is Beautiful Award](https://www.informationisbeautifulawards.com/).
 - *2022.07* Tsinghua University First Class Scholarship.
 - *2020.07* Outstanding Graduates of Beijing.
 - *2020.05* Student Winner, [Golden Pin Design Award](https://goldenpin.org.tw/en).
-- *2019.07* Student Winner, [GDC Award](https://gdc.sgda.cc/homepage?lang=en).
+- *2019.07* Student Winner, [GDC Award](https://gdc.sgda.cc/homepage?lang=en)
+- *2018.10* China National Scholarship.
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
