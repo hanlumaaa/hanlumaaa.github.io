@@ -19,12 +19,12 @@ redirect_from:
 
 Hello! This is Hanlu Ma, currently a first-year PhD student at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/zh-hant), working under the supervision of [Prof. Huamin Qu](http://huamin.org/) in [VisLab](http://vis.cse.ust.hk/index.html). Her research interests include **data visualization** (particularly data storytelling), **data-driven art**, and **human-computer interaction**. 
 
-Before joining HKUST, she earned a BFA in Visual Communication and a MFA in Information Art & Design from [Tsinghua University](https://www.tsinghua.edu.cn/), as well as an MSc from [Politecnico di Milano](https://www.polimi.it/). Hanlu also has extensive industry experience, having worked for [Alibaba Cloud](https://www.alibabacloud.com/en?_p_lc=1) and 2x4 Beijing. She is also a [visual designer](https://www.behance.net/9129259349cda), a manga enthusiast and creator.
+Before joining HKUST, she earned a BFA in Visual Communication and a MFA in Information Art & Design from [Tsinghua University](https://www.tsinghua.edu.cn/), as well as an MSc from [Politecnico di Milano](https://www.polimi.it/). Hanlu also has extensive industry experience, having worked as designer for [Alibaba Cloud](https://www.alibabacloud.com/en?_p_lc=1) and 2x4 Beijing.Her works has been recognized by top design awards, including Golden Pin Design Award, ADI Design Index, Information is Beautiful Award and GDC Award. She is also a manga enthusiast and creator.
 
 
 # News
 - *2024.07*: &nbsp;🌱 Our work, "[The 24 Solar Terms Seed Calendar](https://www.behance.net/gallery/98618717/The-SEEDTOPIA-24-Solar-Terms-Seeds-Calendar)", was exhibited at the Palace Museum during the "Global Shared Development Action Forum”.
-- *2022.12*: &nbsp;👾 Our work "[OFF TRACK:](https://group02-dd17.github.io/offtrack/) A Journey inside the Bitchute Infodemic Underground" was selected for the final list of [Information is Beautiful Award 2022](https://www.informationisbeautifulawards.com/showcase/5403-off-track-a-journey-inside-the-bitchute-infodemic-underground). 
+- *2022.12*: &nbsp;👾 Our work, "[OFF TRACK:](https://group02-dd17.github.io/offtrack/) A Journey inside the Bitchute Infodemic Underground" was selected for the final list of [Information is Beautiful Award 2022](https://www.informationisbeautifulawards.com/showcase/5403-off-track-a-journey-inside-the-bitchute-infodemic-underground). 
 
 <!--# Publications 
 
@@ -41,12 +41,16 @@ Before joining HKUST, she earned a BFA in Visual Communication and a MFA in Info
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+-->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* Featured, [ADI Design Index](https://www.adi-design.org/adi-design-index.html). 
+- *2022.09* Short List, [Information is Beautiful Award](https://www.informationisbeautifulawards.com/).
+- *2022.07* Tsinghua University First Class Scholarship.
+- *2020.07* Outstanding Graduates of Beijing.
+- *2020.05* Student Winner, [Golden Pin Design Award](https://goldenpin.org.tw/en).
+- *2019.07* Student Winner, [GDC Award](https://gdc.sgda.cc/homepage?lang=en).
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
