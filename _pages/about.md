@@ -23,8 +23,8 @@ Before joining HKUST, she earned a BFA in Visual Communication and a MFA in Info
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2023.07*: &nbsp;🎉🎉 Graduated from Tsinghua Uniiversity
+- *2024.09*: &nbsp;Our Our work, "[The Twenty-Four Solar Terms Seed Calendar](https://www.behance.net/gallery/98618717/The-SEEDTOPIA-24-Solar-Terms-Seeds-Calendar)", was exhibited at the Palace Museum during the "Global Shared Development Action Forum”.
+- *2022.12*: &nbsp;Our work "[OFF TRACK:](https://group02-dd17.github.io/offtrack/) A Journey inside the Bitchute Infodemic Underground" was selected for the final list of [Information is Beautiful Award 2022](https://www.informationisbeautifulawards.com/showcase/5403-off-track-a-journey-inside-the-bitchute-infodemic-underground). 
 
 # 📝 Publications 
 
@@ -49,6 +49,3 @@ Before joining HKUST, she earned a BFA in Visual Communication and a MFA in Info
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💻 Working
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
