@@ -25,10 +25,10 @@ Hanlu also has extensive industry experience, having worked as designer for [Ali
 
 
 # News
-- *2024.09*: 🎉 Started PhD journey in HKUST!
+- *2024.09*: &nbsp;🎉 Started PhD journey in HKUST!
 - *2024.07*: &nbsp;🌱 Our work, "[The 24 Solar Terms Seed Calendar](https://www.behance.net/gallery/98618717/The-SEEDTOPIA-24-Solar-Terms-Seeds-Calendar)", was exhibited at the Palace Museum during the "Global Shared Development Action Forum”.
-- *2024.05*: 🎉 Awarded the [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS).
-- *2023.07*: 🎉 Graduated from THU and join Alibaba CLoud!
+- *2024.05*: &nbsp;🎉 Awarded the [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS).
+- *2023.07*: &nbsp;🎉 Graduated from THU and join Alibaba CLoud!
 - *2022.12*: &nbsp;👾 Our work, "[OFF TRACK:](https://group02-dd17.github.io/offtrack/) A Journey inside the Bitchute Infodemic Underground" was selected for the final list of [Information is Beautiful Award 2022](https://www.informationisbeautifulawards.com/showcase/5403-off-track-a-journey-inside-the-bitchute-infodemic-underground). 
 
 <!--# Publications 
@@ -48,7 +48,7 @@ Hanlu also has extensive industry experience, having worked as designer for [Ali
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2024.05*: [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS).
 - *2023.10* Featured, [ADI Design Index](https://www.adi-design.org/adi-design-index.html). 
 - *2022.09* Short List, [Information is Beautiful Award](https://www.informationisbeautifulawards.com/).
@@ -59,7 +59,7 @@ Hanlu also has extensive industry experience, having worked as designer for [Ali
 - *2018.10* China National Scholarship.
 
 
-# 📖 Educations
+# Educations
 - *2024.09 - now*, PhD Student, Hong Kong University of Science and Technology (Hong Kong SAR, CN)
 - *2020.09 - 2023.06*, Master of Fine Arts, Tsinghua University (Beijing, CN)
 - *2021.09 - 2022.06*, Master of Science, Politecnico di Milano (Milan, IT)
