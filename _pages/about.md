@@ -49,14 +49,14 @@ Hanlu also has extensive industry experience, having worked as designer for [Ali
 -->
 
 # Honors and Awards
-- *2024.05*: [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS).
-- *2023.10* Featured, [ADI Design Index](https://www.adi-design.org/adi-design-index.html). 
-- *2022.09* Short List, [Information is Beautiful Award](https://www.informationisbeautifulawards.com/).
-- *2022.07* Tsinghua University First Class Scholarship.
-- *2020.07* Outstanding Graduates of Beijing.
-- *2020.05* Student Winner, [Golden Pin Design Award](https://goldenpin.org.tw/en).
-- *2019.07* Student Winner, [GDC Award](https://gdc.sgda.cc/homepage?lang=en)
-- *2018.10* China National Scholarship.
+- *2024.05*: &nbsp;[Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS).
+- *2023.10*: &nbsp;Featured, [ADI Design Index](https://www.adi-design.org/adi-design-index.html). 
+- *2022.09*: &nbsp;Short List, [Information is Beautiful Award](https://www.informationisbeautifulawards.com/).
+- *2022.07*: &nbsp;Tsinghua University First Class Scholarship.
+- *2020.07*: &nbsp;Outstanding Graduates of Beijing.
+- *2020.05*: &nbsp;Student Winner, [Golden Pin Design Award](https://goldenpin.org.tw/en).
+- *2019.07*: &nbsp;Student Winner, [GDC Award](https://gdc.sgda.cc/homepage?lang=en)
+- *2018.10*: &nbsp;China National Scholarship.
 
 
 # Educations
