@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! This is Hanlu Ma, currently a first-year PhD student at the Hong Kong University of Science and Technology, working under the supervision of Professor Huamin Qu in the vislab. Her research interests include data visualization (particularly data storytelling), data-driven art, and human-computer interaction. 
+Hello! This is Hanlu Ma, currently a first-year PhD student at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/zh-hant), working under the supervision of [Prof. Huamin Qu](http://huamin.org/) in [VisLab](http://vis.cse.ust.hk/index.html). Her research interests include data visualization (particularly data storytelling), data-driven art, and human-computer interaction. 
 
-Before joining HKUST, she earned a BFA in Visual Communication and an MFA in Information Design from Tsinghua University, as well as an MSc in Visual Communication from Politecnico di Milano. 
+Before joining HKUST, she earned a BFA in Visual Communication and an MFA in Information Art & Design from [Tsinghua University](https://www.tsinghua.edu.cn/), as well as an MSc from [Politecnico di Milano](https://www.polimi.it/). 
 
-Additionally, Hanlu has worked as a UX designer at Alibaba. She is also a manga enthusiast and creator.
+Additionally, Hanlu has worked as a UX designer at Alibaba. She is also a [visual designer](https://www.behance.net/9129259349cda), a manga enthusiast and creator.
 
 
 # 🔥 News
