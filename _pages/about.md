@@ -19,7 +19,9 @@ redirect_from:
 
 Hello! This is Hanlu Ma, currently a first-year PhD student at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/zh-hant), working under the supervision of [Prof. Huamin Qu](http://huamin.org/) in [VisLab](http://vis.cse.ust.hk/index.html). Her research interests include **data visualization** (particularly data storytelling), **data-driven art**, and **human-computer interaction**. 
 
-Before joining HKUST, she earned a BFA in Visual Communication and a MFA in Information Art & Design from [Tsinghua University](https://www.tsinghua.edu.cn/), as well as an MSc from [Politecnico di Milano](https://www.polimi.it/). Hanlu also has extensive industry experience, having worked as designer for [Alibaba Cloud](https://www.alibabacloud.com/en?_p_lc=1) and 2x4 Beijing.Her works has been recognized by top design awards, including Golden Pin Design Award, ADI Design Index, Information is Beautiful Award and GDC Award. She is also a manga enthusiast and creator.
+Before joining HKUST, she earned a BFA in Visual Communication and a MFA in Information Art & Design from [Tsinghua University](https://www.tsinghua.edu.cn/), where she graduated from [The Future Laboratory](https://thfl.tsinghua.edu.cn/en/), along with a double degree of MSc from [Politecnico di Milano](https://www.polimi.it/).
+
+Hanlu also has extensive industry experience, having worked as designer for [Alibaba Cloud](https://www.alibabacloud.com/en?_p_lc=1) and 2x4 Beijing.Her works has been recognized by top design awards, including Golden Pin Design Award, ADI Design Index, Information is Beautiful Award and GDC Award. She is also a manga enthusiast and artist.
 
 
 # News
@@ -58,5 +60,8 @@ Before joining HKUST, she earned a BFA in Visual Communication and a MFA in Info
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - now*, PhD Student, Hong Kong University of Science and Technology (Hong Kong SAR, CN)
+- *2020.09 - 2023.06*, Master of Fine Arts, Tsinghua University (Beijing, CN)
+- *2021.09 - 2022.06*, Master of Science, Politecnico di Milano (Milan, IT)
+- *2016.09 - 2020.06*, Bachelor of Fine Arts, Tsinghua University(Beijing, CN)
+- *2019.12 - 2020.04*, Exchange Student, Northeastern University(Boston, US)
