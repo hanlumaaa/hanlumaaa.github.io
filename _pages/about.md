@@ -25,7 +25,7 @@ Hanlu also has extensive industry experience, having worked as designer for [Ali
 
 
 # News
-- *2024.09*: &nbsp;🎉 Started PhD journey in HKUST!
+- *2024.09*: &nbsp;🇭🇰 Started PhD journey in HKUST!
 - *2024.07*: &nbsp;🌱 Our work, "[The 24 Solar Terms Seed Calendar](https://www.behance.net/gallery/98618717/The-SEEDTOPIA-24-Solar-Terms-Seeds-Calendar)", was exhibited at the Palace Museum during the "Global Shared Development Action Forum”.
 - *2024.05*: &nbsp;🎉 Awarded the [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS).
 - *2023.07*: &nbsp;🎉 Graduated from THU and join Alibaba CLoud!
